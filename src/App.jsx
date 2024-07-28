@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <button className='btn btn-primary'>Hello</button>
-      <h1 className='text-red-800 font-semibold text-lg text-center'>Vite + React</h1>
+      <h1 className='text-red-800 font-semibold text-lg text-center'>User Management </h1>
       
     </>
   )
