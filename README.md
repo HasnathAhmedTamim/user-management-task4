@@ -1,8 +1,7 @@
-# React + Vite
+### Video Demonstration and Repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+For a visual demonstration of the user's management, please refer to the [video demonstration](https://drive.google.com/file/d/1ZUfZl2aswAh7uTEq9PxAo9ceFnOohb2R/view?usp=sharing). The complete source code for this project can be found on [GitHub](https://github.com/HasnathAhmedTamim/user-management-task4).
 
-Currently, two official plugins are available:
+### Author
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[HasnathAhmedTamim]
